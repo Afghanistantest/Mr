@@ -4,4 +4,4 @@ git clone https://github.com/Afghanistantest/Mr.git
 
 cd Mr
 
-python v1.py
+python v3_enc.py
